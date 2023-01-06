@@ -1,22 +1,18 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+    <div>
+      <header>
         <p>
           Web app para SC Cosmetics 2023
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          href="https://www.instagram.com/sc_cosmetics22/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Ir al Instagram de SC cosmetics
         </a>
       </header>
     </div>
